@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.caja1{
+    background: rgb(221, 49, 49);
+    height:20vh;
+    height:30vw;
+}
+
+.caja2 {
+    background: blue;
+    height:20vh;
+    height:30vw
+
+}
+
+.caja3 {
+    background: rgb(0, 255, 51);
+    height:20vh;
+    height:30vw
+}
+
+.caja4 {
+    background: rgb(255, 0, 162);
+    height:20vh;
+    height:30vw
+
+}
+
+
+
+
+
+ 
+    
